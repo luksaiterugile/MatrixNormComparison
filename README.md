@@ -1,4 +1,3 @@
-# MatrixNormComparison
 ## Norms of Matrices and Pseudo-Inverse Matrices
 
 This repository contains Python code to generate random 3x6 matrices, calculate their norms, compute their pseudo-inverses, and compare the norms of both matrices. The goal is to explore any regularity or additivity between the norms of these matrices.
